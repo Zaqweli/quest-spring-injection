@@ -1,6 +1,7 @@
 package com.wildcodeschool.wildandwizard.repository;
 
 import com.wildcodeschool.wildandwizard.entity.Wizard;
+import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Repository;
 
 import java.sql.Date;
